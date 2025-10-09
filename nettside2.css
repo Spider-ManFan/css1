@@ -8,10 +8,27 @@ html {
 
 header {
 font-family: fantasy;
+
+ {
+ text-decoration: wavy;
+ text-decoration-line: underline;
+  text-decoration-color: rgb(255, 255, 255);
+  text-decoration-thickness: 5px;
 }
 
-#Section1 {
- 
+
+
+section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 15px;
+    border-style: solid;
+    max-width: 400px;     
+    margin: 20px auto; 
+    background-color: rgb(255, 23, 23);
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid rgb(63, 4, 4);
 }
+
 /* --- I want to jump off a bridge. --- */
 /* 185, 149, 119 */
